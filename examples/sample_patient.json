@@ -1,0 +1,17 @@
+{
+  "age": 60,
+  "sex": 1,
+  "bmi": 26,
+  "preop_bilirubin": 1.2,
+  "inr": 1.1,
+  "platelets": 180,
+  "steatosis_pct": 10,
+  "flr_pct": 35,
+  "blood_loss_ml": 450,
+  "op_time_min": 300,
+  "major_resection": 1,
+  "pve": 0,
+  "cirrhosis": 0,
+  "albumin": 3.8,
+  "portal_htn": 0
+}
